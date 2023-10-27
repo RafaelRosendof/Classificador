@@ -1,5 +1,5 @@
 # Classificador
-Um modelo de rede neural baseado em uma arquitetura de redes convolucionais de dupla camada.
+Um modelo de rede neural baseado em uma arquitetura de redes convolucionais de dupla camada. O dataset utilizado foi esse aqui https://www.kaggle.com/datasets/gpiosenka/100-bird-species
 
 # Objetivo
 Este trabalho teve como objetivo criar um classificador com base em qualquer conjunto de dados que contenha imagens. O cliente busca um classificador que seja capaz de separar grupos distintos de categorias ou espécies.
